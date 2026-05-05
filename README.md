@@ -5,6 +5,8 @@ This project provides a complete deep learning pipeline for detecting pneumonia 
 ![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-Deploy-orange.svg)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Himanshu-Vishwakarma-HF/Pneumonia-CNN)
+[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/Himanshu-Vishwakarma-HF/Pneumon)
 
 ## Features
 
