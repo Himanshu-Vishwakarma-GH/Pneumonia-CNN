@@ -1,0 +1,12 @@
+# Dataset
+xray_dataset_covid19/
+*.zip
+
+# PyTorch checkpoints (GitHub limits files to 100MB, so large models shouldn't be pushed directly)
+*.pth
+*.pt
+
+# Python artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

@@ -1,0 +1,8 @@
+torch>=2.0.0
+torchvision
+gradio
+opencv-python
+matplotlib
+grad-cam
+Pillow
+numpy
